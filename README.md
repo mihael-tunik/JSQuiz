@@ -7,3 +7,5 @@ This is simple JS educational project for building quizzes.
 python3 server.py
 ```
 - Then open index.html in public directory.
+## Acknowledgements:
+Frontend is revised version of [JavaScript-Quiz-App](https://github.com/WebDevSimplified/JavaScript-Quiz-App).
